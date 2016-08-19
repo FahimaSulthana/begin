@@ -8,6 +8,6 @@ void main()
  if(n>=0)
   printf("positive number");
 else
- printf("nrgative number");
+ printf("negative number");
 getch();
 }
