@@ -7,7 +7,7 @@ class fileextension
 	{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		String s=br.readLine();
-		int flag=0;+
+		int flag=0;
 		char[] a=s.toCharArray();
 		for(int i=0;i<a.length;i++)
 		{
